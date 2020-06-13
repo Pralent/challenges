@@ -7,4 +7,4 @@ File Structure
 - sp500_data.csv
   - DATA YOU WILL NEED TO COMPLETE THIS CHALLENGE
 
-If you have any questions, feel free to contact matt@deltatrainer.fit or support@pralent.com
+If you have any questions, feel free to contact support@pralent.com
